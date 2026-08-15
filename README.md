@@ -2,12 +2,12 @@
 
 ##      Что внутри
 
-- **Test Cases** – примеры тест-кейсов для web-приложений (логин, регистрация, оформление заказа и др.).
-- **Checklists** – чек-листы по ключевому функционалу.
-- **Bug Reports** – оформленные баг-репорты с шагами воспроизведения, ожидаемым и фактическим результатом, Severity/Priority.
-- **API Testing** – коллекция Postman и описание проверок REST API.
-- **SQL** – примеры SQL-запросов для проверки данных.
-- **Python** – небольшие скрипты для работы с API и простой проверки данных.
+- [Test Cases](./test-cases/web-app-login/test-cases-login.md) — сценарии проверки авторизации.
+- [Checklist](./checklists/web-app-login-checklist.md) — чек-лист проверки формы логина.
+- [Bug Report](./bug-reports/bug-report-login-error.md) — пример оформленного дефекта.
+- [API Testing Notes](./api-testing/api-testing-notes.md) — примеры API-проверок в Postman.
+- [SQL Queries](./sql/sql-queries.md) — SQL-запросы для проверки данных.
+- [Python Script](./python/api_request_example.py) — пример работы с REST API через `requests`.
 
 ##     Инструменты
 
