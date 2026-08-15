@@ -20,5 +20,5 @@
 
 - Email: mr.99anvar@mail.ru
 - Telegram: SharLodka
-- LinkedIn / HH.ru: https://kazan.hh.ru/resume/b394f41aff0c85e30c0039ed1f5a5a67344437?hhtmFrom=main
+- HH.ru: https://kazan.hh.ru/resume/b394f41aff0c85e30c0039ed1f5a5a67344437?hhtmFrom=main
 
